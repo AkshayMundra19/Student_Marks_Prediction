@@ -21,8 +21,5 @@ The dataset is manually created with the following columns:
 - matplotlib
 - scikit-learn
 
-## How to Run
-1. Clone the repository
-```bash
-git clone https://github.com/AkshayMundra19/Student_Marks_Prediction.git
+
 
